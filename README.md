@@ -11,16 +11,19 @@ Technology:
 
   Scenario
   - We currently opened a new business called "Cafe B " short for "Cafe Bustello." We need to set up our business for our new employees to be added.
-    Our first employee is:
-    User: Jennifer Franks
-    Department: IT Support
+    
+     Our first employee is:
+     User: Jennifer Franks
+     Department: IT Support
+    
     Needs Access to :
     - IT Shared Folder
     - Helpdesk Tools group
       
  
     1. Create an OU for the Department
-       <img width="509" height="361" alt="image" src="https://github.com/user-attachments/assets/a810fffd-a2da-41b7-a0f5-57fa0494b00b" />
+    
+    <img width="509" height="361" alt="image" src="https://github.com/user-attachments/assets/a810fffd-a2da-41b7-a0f5-57fa0494b00b" />
 
 
 
