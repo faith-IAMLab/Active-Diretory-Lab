@@ -21,9 +21,15 @@ Technology:
     - Helpdesk Tools group
       
  
-    1. Create an OU for the Department
+ Create an OU for the Department
     
-    <img width="509" height="361" alt="image" src="https://github.com/user-attachments/assets/a810fffd-a2da-41b7-a0f5-57fa0494b00b" />
+  <img width="509" height="361" alt="image" src="https://github.com/user-attachments/assets/a810fffd-a2da-41b7-a0f5-57fa0494b00b" />
+
+Create A new user to add
+  <img width="402" height="302" alt="image" src="https://github.com/user-attachments/assets/62b6e559-ee4f-439d-a239-7f9cd98b3398" />
+
+
+
 
 
 
