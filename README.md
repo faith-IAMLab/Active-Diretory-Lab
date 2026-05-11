@@ -28,6 +28,14 @@ Technology:
 Create A new user to add
   <img width="402" height="302" alt="image" src="https://github.com/user-attachments/assets/62b6e559-ee4f-439d-a239-7f9cd98b3398" />
 
+Move our user to the IT Department OU
+<img width="506" height="364" alt="image" src="https://github.com/user-attachments/assets/e7297142-d3d4-453b-a138-6a55fb0f9aba" />
+<img width="338" height="321" alt="image" src="https://github.com/user-attachments/assets/63d88054-7798-4f31-a4c5-88e6865b21bf" />
+
+
+
+
+
 
 
 
